@@ -8,4 +8,8 @@ online voting system backend
 ##swamini
 ##Samruddhi Bhosale
 
-##Dhanshri Bajare
+## About This Project
+This is an online voting system backend 
+
+Module of Project are :
+![Voting Page](assets/module-1.jpg)
